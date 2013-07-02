@@ -1,7 +1,7 @@
 Notepad++ PHP Definition
 ========================
 
-This is a PHP syntax highlight definition for Notepad++ with WordPress function fupport.
+This is a PHP syntax highlight definition for Notepad++ with WordPress function support.
 
 Screenshots
 -----------
